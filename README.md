@@ -8,7 +8,7 @@ The code in this repo simply refers to some work to extract the mouth of the fac
 ## results
 ![](picture4readme/eg1.png)
 
-![](picture4readme/eg3.png) {:height="50%" width="50%"}
+![](picture4readme/eg3.png =80x80)
 
 ## reference (GB-T)
 [1] bin Abdul Rahman N A, Wei K C, See J. Rgb-h-cbcr skin colour model for human face detection[J]. Faculty of Information Technology, Multimedia University, 2007, 4.
