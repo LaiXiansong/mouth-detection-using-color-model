@@ -1,5 +1,5 @@
 # mouth-detection-using-color-model
-here's a simple mouth detection code using DIP color model.
+Here's a simple mouth detection code using DIP color model.
 
 ## why create this repo
 Many image-related tasks now use deep learning methods, and it is rare to see faces detected by **classical digital image processing** methods. 
