@@ -6,7 +6,7 @@ Many image-related tasks now use deep learning methods, and it is rare to see fa
 
 The code in this repo simply refers to some work to extract the mouth of the face and determine whether it is open.
 ## results
-![](picture4readme/eg1.png)
+<img src="picture4readme/eg1.png" width = "100px">
 
 ![](picture4readme/eg3.png)
 
