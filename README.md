@@ -6,9 +6,9 @@ Many image-related tasks now use deep learning methods, and it is rare to see fa
 
 The code in this repo simply refers to some work to extract the mouth of the face and determine whether it is open.
 ## results
-![](picture4readme/eg1.png)
+![](picture4readme/eg1.png =100)
 
-![](picture4readme/eg3.png)
+![](picture4readme/eg3.png =100)
 
 ## reference (GB-T)
 [1] bin Abdul Rahman N A, Wei K C, See J. Rgb-h-cbcr skin colour model for human face detection[J]. Faculty of Information Technology, Multimedia University, 2007, 4.
